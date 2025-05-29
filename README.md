@@ -1,11 +1,26 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+# ☀️ About Me:
 
+## 💻 Tech Stack
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white) ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-2D2D2D?style=flat-square&logo=openjdk&logoColor=white)
+![Ruby](https://img.shields.io/badge/-Ruby-2D2D2D?style=flat-square&logo=ruby&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-2D2D2D?style=flat-square&logo=typescript&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-2D2D2D?style=flat-square&logo=amazon-aws&logoColor=white)
+![Datadog](https://img.shields.io/badge/-Datadog-2D2D2D?style=flat-square&logo=datadog&logoColor=white)
+![Rails](https://img.shields.io/badge/-Rails-2D2D2D?style=flat-square&logo=ruby-on-rails&logoColor=white)
+![React](https://img.shields.io/badge/-React-2D2D2D?style=flat-square&logo=react&logoColor=white)
+![Spring](https://img.shields.io/badge/-Spring-2D2D2D?style=flat-square&logo=spring&logoColor=white)
+![Maven](https://img.shields.io/badge/-Maven-2D2D2D?style=flat-square&logo=apache-maven&logoColor=white)
+![Cassandra](https://img.shields.io/badge/-Cassandra-2D2D2D?style=flat-square&logo=apache-cassandra&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-2D2D2D?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-2D2D2D?style=flat-square&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/-Postgres-2D2D2D?style=flat-square&logo=postgresql&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2D2D2D?style=flat-square&logo=github-actions&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2D2D2D?style=flat-square&logo=docker&logoColor=white)
+![Jira](https://img.shields.io/badge/-Jira-2D2D2D?style=flat-square&logo=jira&logoColor=white)
+![Notion](https://img.shields.io/badge/-Notion-2D2D2D?style=flat-square&logo=notion&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-2D2D2D?style=flat-square&logo=postman&logoColor=white)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=kristinadd&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
