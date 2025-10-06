@@ -1,5 +1,10 @@
 # ☀️ About Me:
 
+This is my personal GitHub account, where I explore ideas, experiment with new technologies, and contribute to open-source projects.
+Sometimes, I build small projects just to learn something new — other times, I collaborate on community or open-source initiatives that interest me.
+
+For professional work, I use a separate, organization-linked account, dedicated exclusively to my full-time role and work-related contributions.
+
 ## 💻 Tech Stack
 
 ![Ruby](https://img.shields.io/badge/-Ruby-2D2D2D?style=flat-square&logo=ruby&logoColor=white)
